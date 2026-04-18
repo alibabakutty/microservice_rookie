@@ -1,5 +1,6 @@
-package com.tally.app;
+package com.tally.app.repository;
 
+import com.tally.app.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
